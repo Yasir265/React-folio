@@ -143,33 +143,61 @@ export const portfolioItems = [
     description: "Hair salon booking platform",
     image: "https://softwareengineeryasir.vercel.app/assets/img/portfolio/saloon_landing.png",
   },
+  // {
+  //   id: 8,
+  //   title: "Plant E-store",
+  //   category: "Web Design",
+  //   description: "Plant e-store",
+  //   image: "src/images/1.png",
+  // },
+  //  {
+  //   id: 9,
+  //   title: "Arch Studio",
+  //   category: "Branding",
+  //   description: "Arch Studio",
+  //   image: "src/images/2.png",
+  // },{
+  //   id: 10,
+  //   title: "EasyGo App",
+  //   category: "Mobile App",
+  //   description: "Travelling App",
+  //   image: "src/images/go1.png",
+  // },
+
+  // {
+  //   id: 11,
+  //   title: "Accadmey Website",
+  //   category: "Web Design",
+  //   description: "Accadmey Portfolio",
+  //   image: "src/images/mia.png",
+  // },
   {
     id: 8,
     title: "Plant E-store",
     category: "Web Design",
     description: "Plant e-store",
-    image: "src/images/1.png",
+    image: "/images/1.png",  // yeh change karo
   },
-   {
+  {
     id: 9,
     title: "Arch Studio",
     category: "Branding",
     description: "Arch Studio",
-    image: "src/images/2.png",
-  },{
+    image: "/images/2.png",  // yeh change karo
+  },
+  {
     id: 10,
     title: "EasyGo App",
     category: "Mobile App",
     description: "Travelling App",
-    image: "src/images/go1.png",
+    image: "/images/go1.png",  // yeh change karo
   },
-
   {
     id: 11,
     title: "Accadmey Website",
     category: "Web Design",
     description: "Accadmey Portfolio",
-    image: "src/images/mia.png",
+    image: "/images/mia.png",  // yeh change karo
   },
 ];
 
