@@ -163,6 +163,14 @@ export const portfolioItems = [
     description: "Travelling App",
     image: "src/images/go1.png",
   },
+
+  {
+    id: 11,
+    title: "Accadmey Website",
+    category: "Web Design",
+    description: "Accadmey Portfolio",
+    image: "src/images/mia.png",
+  },
 ];
 
 export const services = [
