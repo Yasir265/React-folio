@@ -199,6 +199,13 @@ export const portfolioItems = [
     description: "Accadmey Portfolio",
     image: "/images/mia.png",  // yeh change karo
   },
+    {
+    id: 12,
+    title: "Bootstrap Training Website",
+    category: "Web Design",
+    description: "Bootstrap Notes",
+    image: "/images/new.png",  // yeh change karo
+  },
 ];
 
 export const services = [
