@@ -193,6 +193,13 @@ export const portfolioItems = [
     description: "Islamic quran accadmey",
     image: "/images/islamic.png",  
   },
+    {
+    id: 12,
+    title: "Bootstrap Training Website",
+    category: "Web Design",
+    description: "Bootstrap Notes",
+    image: "/images/new.png",  // yeh change karo
+  },
 ];
 
 export const services = [
