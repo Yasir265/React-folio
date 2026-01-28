@@ -143,61 +143,55 @@ export const portfolioItems = [
     description: "Hair salon booking platform",
     image: "https://softwareengineeryasir.vercel.app/assets/img/portfolio/saloon_landing.png",
   },
-  // {
-  //   id: 8,
-  //   title: "Plant E-store",
-  //   category: "Web Design",
-  //   description: "Plant e-store",
-  //   image: "src/images/1.png",
-  // },
-  //  {
-  //   id: 9,
-  //   title: "Arch Studio",
-  //   category: "Branding",
-  //   description: "Arch Studio",
-  //   image: "src/images/2.png",
-  // },{
-  //   id: 10,
-  //   title: "EasyGo App",
-  //   category: "Mobile App",
-  //   description: "Travelling App",
-  //   image: "src/images/go1.png",
-  // },
-
-  // {
-  //   id: 11,
-  //   title: "Accadmey Website",
-  //   category: "Web Design",
-  //   description: "Accadmey Portfolio",
-  //   image: "src/images/mia.png",
-  // },
+  
   {
     id: 8,
     title: "Plant E-store",
     category: "Web Design",
     description: "Plant e-store",
-    image: "/images/1.png",  // yeh change karo
+    image: "/images/1.png", 
   },
   {
     id: 9,
     title: "Arch Studio",
     category: "Branding",
     description: "Arch Studio",
-    image: "/images/2.png",  // yeh change karo
+    image: "/images/2.png", 
   },
   {
     id: 10,
     title: "EasyGo App",
     category: "Mobile App",
     description: "Travelling App",
-    image: "/images/go1.png",  // yeh change karo
+    image: "/images/go1.png", 
   },
   {
     id: 11,
     title: "Accadmey Website",
     category: "Web Design",
     description: "Accadmey Portfolio",
-    image: "/images/mia.png",  // yeh change karo
+    image: "/images/mia.png",  
+  },
+  {
+    id: 12,
+    title: "Khan's Foood",
+    category: "Web Design",
+    description: "Resturant",
+    image: "/images/khan.png", 
+  },
+   {
+    id: 13,
+    title: "Coffee",
+    category: "Web Design",
+    description: "The Coffee Shop",
+    image: "/images/coffee.png",  
+  },
+   {
+    id: 14,
+    title: "Islamic Quran Accadmey",
+    category: "Web Design",
+    description: "Islamic quran accadmey",
+    image: "/images/islamic.png",  
   },
 ];
 
