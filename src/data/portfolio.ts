@@ -39,7 +39,7 @@ export const skills = [
   { name: "React Native", level: 78, description: "Proficient in React Native for developing cross-platform mobile applications." },
   { name: "React JS", level: 60, description: "Proficiency in React.js for building dynamic, component-based web applications." },
   { name: "Bootstrap", level: 55, description: "Proficient in Bootstrap for rapidly developing responsive, mobile-first web applications." },
-  { name: ".NET Framework", level: 65, description: "Proficient in .NET framework for developing robust, scalable web and desktop applications." },
+  { name: ".NET Framework", level: 65, description: "Proficient in .NET Framework for developing robust, scalable web and desktop applications." },
   { name: "Photoshop", level: 50, description: "Proficient in Adobe Photoshop for advanced photo editing and graphic design." },
 ];
 
@@ -184,13 +184,13 @@ export const portfolioItems = [
     title: "Bootstrap Training Website",
     category: "Web Design",
     description: "Bootstrap Notes",
-    image: "/images/new.png",  // yeh change karo
+    image: "/images/new.png",  
   },
    {
     id: 14,
     title: "Islamic Quran Academy",
     category: "Web Design",
-    description: "Islamic quran accadmey",
+    description: "Islamic Quran Academy",
     image: "/images/islamic.png",  
   },
   {
