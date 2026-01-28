@@ -193,13 +193,13 @@ export const portfolioItems = [
     description: "Islamic Quran Academy",
     image: "/images/islamic.png",  
   },
-  {
-    id: 15,
-    title: "Khan's Food",
-    category: "Web Design",
-    description: "Restaurant",
-    image: "/images/khan.png", 
-  },
+  // {
+  //   id: 15,
+  //   title: "Khan's Food",
+  //   category: "Web Design",
+  //   description: "Restaurant",
+  //   image: "/images/khan.png", 
+  // },
 ];
 
 export const services = [
