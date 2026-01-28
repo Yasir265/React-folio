@@ -55,7 +55,7 @@ export const workExperience = [
     company: "BIIT CS LAB, Rawalpindi",
     period: "2024 - 2025",
     role: "React-Native & ReactJs Developer",
-    description: "Worked as a React Native, Node JS & React JS Development Intern at BIIT CS Lab."
+   description: "Worked as a React Native, Node JS & React JS Development Intern at BIIT CS Lab.",
     highlights: [
       "Built and maintained cross-platform mobile apps with React Native",
       "Developed responsive UI components following best practices",
@@ -67,7 +67,7 @@ export const workExperience = [
     company: "BIIT CS LAB, Rawalpindi",
     period: "2022 - 2024",
     role: "HTML/CSS & Bootstrap Developer",
-    description: "Developed responsive web interfaces using HTML, CSS, and Bootstrap framework."
+    description: "Developed responsive web interfaces using HTML, CSS, and Bootstrap framework.",
     highlights: [],
   },
 ];
