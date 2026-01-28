@@ -174,31 +174,31 @@ export const portfolioItems = [
   },
   {
     id: 12,
-    title: "Khan's Foood",
+    title: "Bootstrap Training Website",
     category: "Web Design",
-    description: "Resturant",
-    image: "/images/khan.png", 
+    description: "Bootstrap Notes",
+    image: "/images/new.png",  // yeh change karo
   },
-   {
+  {
     id: 13,
     title: "Coffee",
     category: "Web Design",
     description: "The Coffee Shop",
     image: "/images/coffee.png",  
   },
-   {
+  {
     id: 14,
     title: "Islamic Quran Accadmey",
     category: "Web Design",
     description: "Islamic quran accadmey",
     image: "/images/islamic.png",  
   },
-    {
-    id: 12,
-    title: "Bootstrap Training Website",
+  {
+    id: 15,
+    title: "Khan's Food",
     category: "Web Design",
-    description: "Bootstrap Notes",
-    image: "/images/new.png",  // yeh change karo
+    description: "Resturant",
+    image: "/images/khan.png", 
   },
 ];
 
