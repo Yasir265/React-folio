@@ -39,7 +39,7 @@ export const skills = [
   { name: "React Native", level: 78, description: "Proficient in React Native for developing cross-platform mobile applications." },
   { name: "React JS", level: 60, description: "Proficiency in React.js for building dynamic, component-based web applications." },
   { name: "Bootstrap", level: 55, description: "Proficient in Bootstrap for rapidly developing responsive, mobile-first web applications." },
-  { name: ".NET Framework", level: 65, description: "Proficient in .NET framework for developing robust, scalable web and desktop applications." },
+  { name: ".NET Framework", level: 65, description: "Proficient in .NET Framework for developing robust, scalable web and desktop applications." },
   { name: "Photoshop", level: 50, description: "Proficient in Adobe Photoshop for advanced photo editing and graphic design." },
 ];
 
@@ -55,7 +55,7 @@ export const workExperience = [
     company: "BIIT CS LAB, Rawalpindi",
     period: "2024 - 2025",
     role: "React-Native & ReactJs Developer",
-    description: "Worked as a React Native, Node JS & React JS Development Intern at BIIT CS Lab.",
+    description: "Worked as a React Native, Node JS & React JS Development Intern at BIIT CS Lab."
     highlights: [
       "Built and maintained cross-platform mobile apps with React Native",
       "Developed responsive UI components following best practices",
@@ -67,7 +67,7 @@ export const workExperience = [
     company: "BIIT CS LAB, Rawalpindi",
     period: "2022 - 2024",
     role: "HTML/CSS & Bootstrap Developer",
-    description: "Developed responsive web interfaces using HTML, CSS, and Bootstrap framework.",
+    description: "Developed responsive web interfaces using HTML, CSS, and Bootstrap framework."
     highlights: [],
   },
 ];
@@ -83,13 +83,13 @@ export const education = [
     institution: "Skill University H9 Islamabad",
     period: "June 2023 - Sep 2023",
     degree: "Diploma in Data Science",
-    description: "Completed 3 months diploma in data science with A grade.",
+    description: "Completed 3 months diploma in data science with an A grade.",
   },
   {
     institution: "Skill University H9 Islamabad",
     period: "April 2023 - Sep 2023",
     degree: "Professional Programming Diploma",
-    description: "Completed 6 months professional programming diploma with B grade.",
+    description: "Completed 6 months professional programming diploma with a B grade."
   },
 ];
 
@@ -133,7 +133,7 @@ export const portfolioItems = [
     id: 6,
     title: "Best Food In City",
     category: "Mobile App",
-    description: "Finding best food in every city within 2km radius",
+    description: "Finding the best food in every city within a 2km radius",
     image: "https://softwareengineeryasir.vercel.app/assets/img/portfolio/Gemini_Generated_Image_vc7qybvc7qybvc7q.png",
   },
   {
@@ -169,36 +169,36 @@ export const portfolioItems = [
     id: 11,
     title: "Accadmey Website",
     category: "Web Design",
-    description: "Accadmey Portfolio",
+    description: "Academy Portfolio",
     image: "/images/mia.png",  
   },
   {
+    id: 12,
+    title: "Khan's Foood",
+    category: "Web Design",
+    description: "Resturant",
+    image: "/images/khan.png", 
+  },
+   {
     id: 13,
     title: "Coffee",
     category: "Web Design",
     description: "The Coffee Shop",
     image: "/images/coffee.png",  
   },
-  {
+   {
     id: 14,
     title: "Islamic Quran Accadmey",
     category: "Web Design",
     description: "Islamic quran accadmey",
     image: "/images/islamic.png",  
   },
-  {
+    {
     id: 12,
     title: "Bootstrap Training Website",
     category: "Web Design",
     description: "Bootstrap Notes",
     image: "/images/new.png",  // yeh change karo
-  },
-  {
-    id: 15,
-    title: "Khan's Food",
-    category: "Web Design",
-    description: "Resturant",
-    image: "/images/khan.png", 
   },
 ];
 
