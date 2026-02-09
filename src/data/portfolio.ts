@@ -206,7 +206,7 @@ export const portfolioItems = [
     title: "Flip Card",
     category: "Games",
     description: "Game",
-    image: "src/images/f.png", 
+    image: "images/f.png", 
   },
    ,
   {
