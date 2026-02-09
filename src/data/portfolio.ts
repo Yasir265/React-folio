@@ -199,7 +199,52 @@ export const portfolioItems = [
     category: "Web Design",
     description: "Resturant",
     image: "/images/khan.png", 
+  }
+  ,
+  {
+    id: 16,
+    title: "Flip Card",
+    category: "Games",
+    description: "Game",
+    image: "src/images/f.png", 
   },
+   ,
+  {
+    id: 17,
+    title: "Tic Tac Toe",
+    category: "Games",
+    description: "Game",
+    image: "/images/tic.png", 
+  },
+   {
+    id: 18,
+    title: "Patiala Jewlers",
+    category: "Branding",
+    description: "A brand who providing jewlery materials",
+    image: "/images/gold.png", 
+  },
+  {
+    id: 19,
+    title: "House Finding",
+    category: "Branding",
+    description: "A brand who is responsible  for finding house",
+    image: "/images/housea.png", 
+  },
+    {
+    id: 20,
+    title: "Organic Form",
+    category: "Web Design",
+    description: "web design",
+    image: "/images/organic.png", 
+  },
+   {
+    id: 21,
+    title: "Currency Changer",
+    category: "Web Design",
+    description: "web design",
+    image: "/images/curr.png", 
+  },
+  
 ];
 
 export const services = [

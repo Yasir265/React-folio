@@ -4,7 +4,7 @@ import { useInView } from "react-intersection-observer";
 import { ExternalLink, Eye } from "lucide-react";
 import { portfolioItems } from "@/data/portfolio";
 
-const categories = ["All Work", "Mobile App", "Web Design", "Branding"];
+const categories = ["All Work", "Mobile App", "Web Design", "Branding",'Games'];
 
 const Portfolio = () => {
   const [ref, inView] = useInView({
